@@ -14,6 +14,7 @@
 {
     // Override point for customization after application launch.
     // it is changed from xcode
+    //it is changed in github
     return YES;
 }
 							
